@@ -80,7 +80,7 @@
 	<footer id="footer">
 	<div class="text-center footer-contents">
 		<p id="copyright" property="dc:rights">&copy;
-			<span property="dc:dateCopyrighted">2014</span>
+			<span property="dc:dateCopyrighted">2024</span>
 			<span property="dc:publisher">Chandu</span>
 		</p>	
 	</div>
